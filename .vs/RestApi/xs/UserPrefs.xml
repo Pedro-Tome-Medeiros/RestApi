@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{EE59629C-DD16-469B-B36C-3C51D9E08A12}|Default">
+  <MonoDevelop.Ide.ItemProperties.RestApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestApi/Controllers/UserController.cs">
+    <Files>
+      <File FileName="RestApi/Controllers/WeatherForecastController.cs" Line="5" Column="36" />
+      <File FileName="RestApi/Controllers/UserController.cs" Line="35" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestApi" expanded="True">
+            <Node name="RestApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
